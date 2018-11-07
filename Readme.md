@@ -11,5 +11,5 @@
 - make sure you have the dependencies (body-parager, path, express)
 - in the console run node server.js
 - Open localhost: 8080 in your browser
-### [Check it out!](https://tamilae.github.io/GIPHY-API/).
+### [Check it out!](https://tamilae.github.io/FriendFinder-/.).
 
